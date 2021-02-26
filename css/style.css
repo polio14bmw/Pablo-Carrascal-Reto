@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+  background-color: rgba(0, 0, 0, 0.705);
+}
+
+.header {
+  background-color: rgb(255, 255, 255);
+  height: 70px;
+}
+
+.logo {
+  float: left;
+  padding: 10px;
+}
+
+.menu {
+  float: right;
+  margin: 24px;
+}
+
+.menu a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  padding: 15px;
+}
+.banner {
+  background-image: url(../img/IRONMAIDEN3.jpg) ;
+  height: 150 px;
+  background-repeat: no-repeat;
+}
+
+.banner h1 {
+  text-align: right;
+  font-size: 80px;
+  padding: 150px 50px;
+  color: rgb(255, 255, 255);
+}
+.imagen {
+   height: 50;
+
+}
+.footer {
+    background-color: rgb(245, 245, 245);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px 100px 70px 100px;
+  }
+  .footer2{
+    background-color: rgb(245, 245, 245);
+    padding: 20px 100px 70px 100px;
+    text-align: center;
+  }
+.informacion{
+    color: rgb(255, 255, 255);
+}
